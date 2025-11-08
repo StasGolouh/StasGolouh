@@ -27,24 +27,24 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/stanislav-golouh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="35" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=ffffff" alt="LinkedIn" height="35" width="35" />
   </a>
   <a href="https://github.com/stasgolouh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="35" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?color=ffffff" alt="GitHub" height="35" width="35" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
+<p>
   <strong>Languages:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Frontend:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Tools:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
@@ -60,11 +60,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stasgolouh&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=stasgolouh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
