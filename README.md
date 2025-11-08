@@ -24,16 +24,14 @@
 
 ---
 
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/stanislav-golouh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=ffffff" alt="LinkedIn" height="35" width="35" />
+    <img src="./assets/icons/linkedin-white.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   <a href="https://github.com/stasgolouh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?color=ffffff" alt="GitHub" height="35" width="35" />
+    <img src="./assets/icons/github-white.svg" alt="GitHub" height="35" width="35" />
   </a>
 </p>
-
 ---
 
 ### 🛠️ Languages & Tools
