@@ -24,6 +24,7 @@
 
 ---
 
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/stanislav-golouh" target="_blank">
     <img src="./assets/icons/linkedin-white.svg" alt="LinkedIn" height="35" width="35" />
@@ -32,6 +33,7 @@
     <img src="./assets/icons/github-white.svg" alt="GitHub" height="35" width="35" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
