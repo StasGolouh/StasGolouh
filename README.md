@@ -50,18 +50,6 @@
   <strong>Tools:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stasgolouh&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stasgolouh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### ⚡ Fun Animations
